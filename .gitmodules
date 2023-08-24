@@ -1,0 +1,6 @@
+[submodule "florin_server"]
+	path = florin_server
+	url = git@github.com:rkumari2/florin_server.git
+[submodule "florin_client"]
+	path = florin_client
+	url = git@github.com:rkumari2/florin_client.git
