@@ -23,10 +23,11 @@ The Florin County Council App is not just a platform; it's a community hub for k
 1. Copy the SSH key on the GitHub Repo.
 2. Open your terminal and navigate to the desired directory using the command `cd <write file path here>`.
 3. Run the command `git clone <Paste SSH key here>`.
-4. Run the command `npm install` to install the required dependencies.
-5. Run the command `code .` in the terminal to open the project in VSCode.
-6. Open your Docker app in your computer
-7. Create  `docker-compose.yaml` file and add the following amending when required: 
+4. Run git submodule update --init 
+6. Run the command `npm install` to install the required dependencies.
+7. Run the command `code .` in the terminal to open the project in VSCode.
+8. Open your Docker app in your computer
+9. Create  `docker-compose.yaml` file and add the following amending when required: 
 
 ```
 version: '3.8'
