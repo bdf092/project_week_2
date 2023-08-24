@@ -88,7 +88,7 @@ volumes:
 
 # Running the App From the Browser
 
-- If you do not want to develop the app further but would like to see it in action, there is a hosted version available from the following URL
+- If you do not want to develop the app further but would like to see it in action, there is a hosted version available from the following URL: https://florin-client-cz8s.onrender.com/
 
 # Planned Improvements
 
