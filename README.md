@@ -6,7 +6,7 @@ Introducing Florin County Council app: Empower Your Ideas for a Better Community
 
 Imagine having the ability to directly influence the positive transformation of your town. With the Florin County Council App, your suggestions for improving key aspects of our community – recycling, public services, landscape, and skills – can be heard and put into action.
 
-**1. Revolutionize Recycling:**
+**1. Revolutionise Recycling:**
 Be a catalyst for change in our town's recycling practices. The Florin County Council provides you with a platform to propose innovative recycling solutions, share insights on reducing waste, and even suggest locations for additional recycling bins. Your ideas can drive a more sustainable future for our environment.
 
 **2. Elevate Public Services:**
@@ -16,7 +16,7 @@ Make your voice heard when it comes to public services. Whether it's improving r
 Envision a more beautiful and inviting town landscape. With the Florin County Council App, you can propose landscaping projects, recommend enhancements for parks and public spaces, and even initiate community clean-up events. Together, we can nurture a town that reflects our pride and unity.
 
 **4. Share Skills, Enrich Lives:**
-The Florin County Council App is not just a platform; it's a community hub for knowledge sharing. Whether you have expertise in arts, crafts, education, or any other skill, you can organize workshops, mentor others, and contribute to the cultural and educational growth of our town.
+The Florin County Council App is not just a platform; it's a community hub for knowledge sharing. Whether you have expertise in arts, crafts, education, or any other skill, you can organise workshops, mentor others, and contribute to the cultural and educational growth of our town.
 
 # Installation & Usage
 
