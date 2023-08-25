@@ -23,11 +23,11 @@ The Florin County Council App is not just a platform; it's a community hub for k
 1. Copy the SSH key on the GitHub Repo.
 2. Open your terminal and navigate to the desired directory using the command `cd <write file path here>`.
 3. Run the command `git clone <Paste SSH key here>`.
-4. Run git submodule update --init 
+4. Run git submodule `update --init`. 
 6. Run the command `npm install` to install the required dependencies.
 7. Run the command `code .` in the terminal to open the project in VSCode.
 8. Open your Docker app in your computer
-9. Create  `docker-compose.yaml` file and add the following amending when required: 
+9. Create  `docker-compose.yaml` file and add the following amending where required: 
 
 ```
 version: '3.8'
@@ -82,7 +82,7 @@ volumes:
 
 1. In the server folder create a file called `.env`.
 2. In this file paste the following
-`PORT = 3000 DB_URL = <Paste the Database URL format from docker TEST_DB_URL = <Repeat the process of making a new database if you need to do testing> BCRYPT_SALT_ROUNDS = 12`
+`PORT = 3000 DB_URL = <postgres://user:password@localhost:5432/database> TEST_DB_URL = <Repeat the process of making a new database if you need to do testing> BCRYPT_SALT_ROUNDS = 12`
 3. Run the commands `cd server` & `npm run dev` in the terminal.
 4. Open the project using live server from the `index.html` file located inside the client and homepage directories.
 
@@ -93,7 +93,7 @@ volumes:
 # Planned Improvements
 
 - Time - Stamp: Add time-stamp of when a suggestion was made.
-- Implemented Suggestions: Add page showing what suggestions have already been implemented
+- Implemented Suggestions: Add page showing what suggestions have already been implemented.
 - Profile - Section: Expanded profiles with icons, detailed contributions and badges.
 - Language - Dropdown: Dropdown menu that selects your chosen language. Lots of translation work.
 
