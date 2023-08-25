@@ -80,10 +80,10 @@ volumes:
     name: <give it a name>
 ```
 
-1. In the server folder create a file called `.env`.
+1. In the florian_server folder create a file called `.env`.
 2. In this file paste the following
 `PORT = 3000 DB_URL = <postgres://user:password@localhost:5432/database> TEST_DB_URL = <Repeat the process of making a new database if you need to do testing> BCRYPT_SALT_ROUNDS = 12`
-3. Run the commands `cd server` & `npm run dev` in the terminal.
+3. Run the commands `cd florian_server` & `npm run dev` in the terminal.
 4. Open the project using live server from the `index.html` file located inside the client and homepage directories.
 
 # Running the App From the Browser
